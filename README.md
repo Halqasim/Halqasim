@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Halqasim
-- 👀 I’m interested in coding & cyberSecurity
+- 👀 I’m interested in devoloping games & cyberSecurity
 - 🌱 I’m currently learning java programming lnguage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Email
